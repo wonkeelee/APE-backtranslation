@@ -1,5 +1,5 @@
 # APE-backtranslation
-This repository contains data for our EACL 2021 paper "EACL2021: Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation".
+This repository contains data for our EACL 2021 paper "Adaptation of Back-translation to Automatic Post-Editing for Synthetic Data Generation".
 
 
 ## Reference
